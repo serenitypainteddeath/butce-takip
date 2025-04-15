@@ -33,8 +33,7 @@ Ahmet, aylık harcamalarını takip etmek isteyen bir üniversite öğrencisidir
 | 1. Hafta | Proje planlaması ve tasarım |
 | 2-3. Hafta | Kullanıcı arayüzü geliştirme |
 | 4-5. Hafta | Firebase entegrasyonu |
-| 6. Hafta | Grafiksel veri görselleştirme |
-| 7. Hafta | Test ve hata ayıklama |
+| 6-7. Hafta | Grafiksel veri görselleştirme |
 | 8. Hafta | Dokümantasyon ve sunum hazırlığı |
 
 ## ✅ Sonuç ve Katkı
